@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="this_is_task_1">This is task 1</string>
+</resources>
